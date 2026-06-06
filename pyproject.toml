@@ -1,0 +1,12 @@
+[project]
+name = "pulp-to-linopy"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "highspy!=1.14.0",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "linopy>=0.7.0",
+    "pulp>=3.3.2",
+]
